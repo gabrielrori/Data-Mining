@@ -8,7 +8,7 @@ This repository holds a variety of notebooks and implementations showcasing data
      - In this Jupyter notebook, ARMA (Autoregressive Moving Average) and ARIMA (Autoregressive Integrated Moving Average) time series forecasting models are discussed and implemented. 
 
 2. **Classifier Boundaries.ipynb**
-     - This notebook explores the concept of classifier boundaries, illustrating their role in decision-making within machine learning algorithms.
+     - Explores the concept of classifier boundaries, illustrating their role in decision-making within machine learning algorithms.
 
 3. **MNIST CNN GradCAM.ipynb**
      - This Python notebook showcases an application of Convolutional Neural Networks (CNNs) on the popular MNIST dataset. It particularly emphasizes on Grad-CAM, a technique for making sense of the predictions made by these models.
