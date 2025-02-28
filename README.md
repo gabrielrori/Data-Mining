@@ -4,7 +4,7 @@ This repository holds a variety of notebooks and implementations showcasing data
 
 ## Contents
 
-1. **ARMA ARIMA PUCP.ipynb** 
+1. **ARMA ARIMA.ipynb** 
      - In this Jupyter notebook, ARMA (Autoregressive Moving Average) and ARIMA (Autoregressive Integrated Moving Average) time series forecasting models are discussed and implemented. 
 
 2. **Classifier Boundaries.ipynb**
